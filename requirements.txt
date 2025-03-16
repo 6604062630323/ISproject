@@ -2,10 +2,11 @@ streamlit
 scikit-learn
 seaborn
 pandas
-numpy
+numpy==1.23.5
 torch
 torchvision
 joblib
 tensorflow==2.10.0
 pillow
 datasets
+protobuf==3.20.3
